@@ -1,0 +1,26 @@
+{
+  "universities": [
+    {
+      "id": "uni1",
+      "name": "Veritas Institute Institute of Technology",
+      "overview": "A private tech-focused university with strong industry ties.",
+      "courses": [
+        {"code": "BTech_CSE", "name": "B.Tech Computer Science", "feeRange": "₹2,00,000 - ₹4,00,000"},
+        {"code": "MBA", "name": "MBA (Full Time)", "feeRange": "₹3,00,000 - ₹6,00,000"}
+      ],
+      "placements": {"highest": "₹30 LPA", "average": "₹7 LPA", "companies": ["TCS","Infosys","Google"]},
+      "facilities": ["Library","Labs","Hostel","Sports Complex"]
+    },
+    {
+      "id": "uni2",
+      "name": "Horizon School of Business & Science",
+      "overview": "Private university focused on business and applied sciences.",
+      "courses": [
+        {"code": "BBA","name": "BBA","feeRange": "₹1,00,000 - ₹2,00,000"},
+        {"code": "BSc_Data","name": "B.Sc Data Science","feeRange": "₹1,50,000 - ₹3,00,000"}
+      ],
+      "placements": {"highest": "₹25 LPA","average": "₹6 LPA","companies": ["Accenture","Amazon","Capgemini"]},
+      "facilities": ["Auditorium","Research Labs","Incubation Center"]
+    }
+  ]
+}
